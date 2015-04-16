@@ -8,6 +8,7 @@
 Resources
 ---------
 
+* Please report all issues at the centralized RECAP issue repo, [/freelawproject/recap](https://github.com/freelawproject/recap/issues).
 * [RECAP Home Page][1]
 * [RECAP Developer Slides][2]
 
