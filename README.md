@@ -4,6 +4,18 @@
 *A RECAP extension for Internet Explorer*
 
 
+Status
+------
+
+**WARNING**: This extension has yet to be completed, and likely never will be. It was an experiment in creating a RECAP version for Internet Explorer, but with IE Edge, Firefox, Opera, Safari, and Chrome coming together around Web Extensions, it doesn't make any sense to devote resources here.
+
+In particular, the following remains to be done:
+
+* Making methods that make HTTP requests in `class RECAP()` asynchronous.
+* Debugging interactions with PACER websites.
+* Creating an installation package using NSIS.
+
+
 
 Resources
 ---------
@@ -16,17 +28,6 @@ Resources
 [2]: https://docs.google.com/presentation/d/1khhCaQIC2bBSgZPmdskA5ONisDjiHU6a_50t7oYAKJU/
 
 
-
-Status
-------
-
-WARNING: This extension has yet to be completed.
-
-In particular, the following remains to be done:
-
-* Making methods that make HTTP requests in `class RECAP()` asynchronous.
-* Debugging interactions with PACER websites.
-* Creating an installation package using NSIS.
 
 
 
